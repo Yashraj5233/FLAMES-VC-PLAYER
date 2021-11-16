@@ -94,13 +94,20 @@ python3 main.py
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
 
+ ## SUPPORT 📍
+                          
+<a href="https://t.me/flamesdynasty"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/flamesbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+
+-------------------------------------------------
+
 ## LICENSE
 
 - [GNU General Public License](./LICENSE)
 
 
 ## CREDITS
-
+## CREATOR 📍 [**KING OF FLAME**](https://t.me/THEKINGOFFLAME786)
 - [Laky-64](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 
